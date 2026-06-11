@@ -2,7 +2,8 @@
 
 ## 1. Python 3.11 installieren
 
-Falls Python noch nicht installiert ist, Python 3.11 installieren.
+Falls Python noch nicht installiert ist, Python 3.11 installieren: https://www.python.org/downloads/windows/
+
 
 Prüfen:
 
